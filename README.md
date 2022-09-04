@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @brianprost
-- 👀 I’m curently a software development student at UMGC, and interested in web development, iOS development, and trying to learn the benefits of flutter and react native.
-- 🌱 I’m currently learning [react](https://github.com/facebook/react), [node.js](https://github.com/nodejs/node), [tailwind](https://tailwindcss.com), and [Figma](https://www.figma.com)
+- 👀 I’m a software developmer in Washington, D.C. 
