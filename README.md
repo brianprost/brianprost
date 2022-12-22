@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @brianprost
-- 👀 I’m a software developmer in Washington, D.C. 
+## _"\[My readme is\] a\[n\] open book and your man probably read it."_ -MTS
